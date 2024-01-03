@@ -6,6 +6,8 @@ h1{
 }
 div{
     background-color: aquamarine;
-    width: 800px; height: 400px;
-    box-shadow: 10px 10px 20px 30px blueviolet;
+    width: 600px; height: 400px;
+    box-shadow: 10px  blueviolet;
+    padding: 10px;
+    margin-bottom: 10px;
 }
