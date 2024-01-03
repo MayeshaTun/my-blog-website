@@ -12,7 +12,10 @@ div{
     margin-bottom: 10px;
     background-size: 50px;
 }
-.hd{
-    background-size: cover;
-    height: 400px; width: 600px;
+#mb{ 
+    background-color: cadetblue;
+    width: 500px; height: 600px;
+}
+h2{
+    background-color: rosybrown;
 }
